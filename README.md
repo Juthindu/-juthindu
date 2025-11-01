@@ -69,5 +69,11 @@ Repo: https://github.com/Juthindu/Wallet-Connector
 <h3>📺 YouTube Videos</h3>
 - <a href="https://www.youtube.com/watch?v=pCWEVCRYKLo&list=PLLXywFiWOZJ1H9fqA_Dj6G7HU_ynuC_ek">Blockchain Basics to Advanced</a>
 - <a href="https://www.youtube.com/watch?v=4-kQdRS2fZk&list=PLLXywFiWOZJ3S5J62BVULaGPunBz8Ws33">Solidity Basics to Advanced</a>
+<h3>📫 Let’s Connect</h3>
+<p>
+I’m always excited to collaborate on Laravel, blockchain, and full-stack development projects.  
+Feel free to explore my repositories, connect with me on LinkedIn, or check out my YouTube channel for blockchain tutorials.
+</p>
 
+<h4>Thank you for visiting my portfolio!</h4>
 
